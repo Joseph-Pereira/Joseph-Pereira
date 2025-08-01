@@ -12,9 +12,9 @@
 - 🎓 3rd Year Computer Science student  
 - 🧠 Currently learning: **Express.js**, **Angular**, **Machine Learning**, **IoT Systems**
 - 💡 Projects include:
-  - 🎓 Student Wellness Management System (Java Swing + JavaDB)
-  - 📊 Data Analysis with Python for student performance
-  - 🌐 Event Planning Website (HTML/CSS/JS/Express)
+  -  Event Management System (C#,SQL)
+  -  Data Analysis with Python for sentiment analysis
+  -  Community Portal Website (HTML/CSS/JS/Express)
 - 🌍 Based in **South Africa**
 - ✉️ Reach me: pereirajoseph13@gmail.com
 
