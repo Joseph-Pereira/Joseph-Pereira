@@ -10,7 +10,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 3rd Year Computer Science student  
-- 🧠 Currently learning: **Express.js**, **Angular**, **Machine Learning**, **IoT Systems**
+- 🧠 Currently learning: **Express.js**, **Machine Learning**, **IoT Systems**
 - 💡 Projects include:
   -  Event Management System (C#,SQL)
   -  Data Analysis with Python for sentiment analysis
@@ -33,7 +33,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+
 
 #### 🛠 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
